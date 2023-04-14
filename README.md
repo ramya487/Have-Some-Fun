@@ -7,7 +7,7 @@ Python
 * Randome
 * Time
 * Tabulate
-## Screenshots Of Functioning
+### Screenshots Of Functioning
 ![Screenshot (263)](https://user-images.githubusercontent.com/124439274/232096317-d769b6f5-930f-4540-9b78-4a0db1a8b7ef.png)
 
 
