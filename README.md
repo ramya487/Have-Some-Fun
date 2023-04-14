@@ -7,4 +7,3 @@ Python
 * Randome
 * Time
 * Tabulate
-![Screenshot (263)](https://user-images.githubusercontent.com/124439274/232093292-0abe9f59-6b4d-4192-bc99-a70d978a4706.png)
