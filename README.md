@@ -14,3 +14,4 @@ Python IDLE (Can use any other IDE)
 ![Screenshot (268)](https://user-images.githubusercontent.com/124439274/232098998-c59f260e-3a5a-4c79-8614-17cc0d8b562d.png)
 ### Future Scope
 This can be further improved by implementing it in a GUI interface. It will be a way lot better by the addition of various different intermediate responses.
+A feature can be included which allowes multiple users to play simultaneously and a database can be used to record the scores.
