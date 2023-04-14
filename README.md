@@ -3,6 +3,6 @@ A small program simulating the Rock Paper Scissors game, in which the program ra
 # Programming Language
 Python
 # Major Modules
-*Randome
-*Time
-*Tabulate
+* Randome
+* Time
+* Tabulate
